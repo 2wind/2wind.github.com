@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Kim yongwook. Undergraduate of Seoul National University. Member of SNUGDC(SNU Game Developement Club).
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+컴공 복전을 노리고 있다. 이번 여름 방학에는 깃헙에 입문했습니다.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[whirlwind@snu.ac.kr](mailto:whirlwind@snu.ac.kr)
+[rladyddnrl@gmail.com](mailto:rladyddnrl@gmail.com)
+
+Yes, asians generally do not care about proper official mail name. Sorry.
