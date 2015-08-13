@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Kim yongwook. Undergraduate of Seoul National University. Member of SNUGDC(SNU Game Developement Club).
+Kim yongwook. Undergraduate of Seoul National University. Member of SNUGDC(SNU Game Development Club).
 
 ### More Information
 
-컴공 복전을 노리고 있다. 이번 여름 방학에는 깃헙에 입문했습니다.
+주전공 농업생명과학대학 산림과학부 환경재료학과, 복수전공 공과대학 컴퓨터공학부 컴퓨터공학과.
+
+이번 여름 방학에는 github, Unity3D, atom에 입문했습니다.
 
 ### Contact me
 
