@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }}{% endif %}{% if not page.title %}{{ site.name }} – {{ site.description }}{% endif %}</title>
+    <title>{% if page.title %}{{ page.title }}{% endif %}{% if page.title == null %}{{ site.name }} – {{ site.description }}{% endif %}</title>
 
     {% include meta.html %}
 
