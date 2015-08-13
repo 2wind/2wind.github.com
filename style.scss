@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $KoPubBatang;
+  font: 18px/1.4 $NanumBarunGothic;
   color: $darkGray;
 }
 
@@ -123,11 +123,11 @@ img {
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
-  background: $lightGray;
+  background: $gray;
 }
 ::selection {
   color: $black;
-  background: $lightGray;
+  background: $gray;
 }
 
 // Nicolas Gallagher's micro clearfix hack
