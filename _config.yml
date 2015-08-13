@@ -49,8 +49,7 @@ url: http://2wind.github.io
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
-kramdown:
-  input: GFM
+markdown: redcarpet
 
 #
 # !! You don't need to change any of the configuration flags below !!
