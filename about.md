@@ -15,6 +15,4 @@ Kim yongwook. Undergraduate of Seoul National University. Member of SNUGDC(SNU G
 ### Contact me
 
 [whirlwind@snu.ac.kr](mailto:whirlwind@snu.ac.kr)
-[rladyddnrl@gmail.com](mailto:rladyddnrl@gmail.com)
-
-Yes, asians generally do not care about proper official mail name. Sorry.
+[kim.yongwook.snu@gmail.com](mailto:kim.yongwook.snu@gmail.com)
