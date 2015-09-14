@@ -50,13 +50,13 @@ url: http://2wind.github.io
 baseurl: ""
 
 markdown: redcarpet
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
 redcarpet:
   extensions: ["smart", "tables", "no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data"]
 #
 # !! You don't need to change any of the configuration flags below !!
 #
 
-markdown: redcarpet
 highlighter: pygments
 permalink: /:title/
 
