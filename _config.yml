@@ -57,7 +57,7 @@ redcarpet:
 # !! You don't need to change any of the configuration flags below !!
 #
 
-highlighter: rogue
+highlighter: rouge
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
